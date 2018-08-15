@@ -1,5 +1,5 @@
 require "kadro/version"
-require "rulers/array"
+require "kadro/array"
 
 module Kadro
   class Application
