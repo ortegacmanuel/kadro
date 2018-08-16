@@ -1,5 +1,7 @@
 require "kadro/version"
 require "kadro/routing"
+require "kadro/util"
+require "kadro/dependencies"
 
 require "kadro/array"
 
